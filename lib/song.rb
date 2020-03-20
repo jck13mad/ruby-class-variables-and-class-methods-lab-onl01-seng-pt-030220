@@ -13,7 +13,6 @@ class Song
   end
   
   def self.genre
-    genres = []
     
   
   
